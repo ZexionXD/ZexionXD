@@ -2,7 +2,7 @@
 <p align="center">
 
 ## Author
-<img src="https://github.com/FajarYuzu/FajarYuzu/blob/main/test.gif" width="500px" alt=""><br></h1>
+<img src="https://github.com/ZexionXD/ZexionXD/blob/main/test.gif" width="500px" alt=""><br></h1>
 <p align="center">
 
 ```Nama : Fajar Reiva Cahya```
